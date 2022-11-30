@@ -62,6 +62,8 @@ function initialValues() {
   setScore1(0);
   setCurrent0(0);
   setCurrent1(0);
+  btnRoll.addEventListener('click', rolling);
+  btnHold.addEventListener('click', holding);
   playerSet.forEach(el => el.classList.remove('player--winner'));
 
   if (turn === 1) changeTurn();
