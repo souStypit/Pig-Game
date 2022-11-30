@@ -1,1 +1,1 @@
-[Click to open](https://soustypit.github.io/Pig-Game/)
+To open [click](https://soustypit.github.io/Pig-Game/)
